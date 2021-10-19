@@ -54,5 +54,16 @@ text-underline-offset: 7px;
     background-size: cover;
     background-position: center;
     position: relative;
-    
+}
+.hero-box h1 {
+    height: 55px;
+    padding: 5px 15px ;
+    float: right;
+   margin: 145px 80px 40px;
+    font-size: 40px;
+    background-color: #75dee4;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #3e4049;
+    text-align: center;
+
 }
