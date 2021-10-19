@@ -48,3 +48,11 @@ header nav ul li a {
 text-decoration: underline 4px ; 
 text-underline-offset: 7px;
 }
+.hero {
+    background-image: url("../images/website\ hero.jpeg");
+    height: 225px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    
+}
