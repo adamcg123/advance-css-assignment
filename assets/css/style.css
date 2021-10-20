@@ -36,18 +36,19 @@ header nav {
     text-decoration: none;
 }
 
-
 header nav ul li  {
     display: inline-block;
     margin: 0 20px;
     color: #75dee4; 
      
 }
+
 header nav ul li a {
     color: #75dee4;
 text-decoration: underline 4px ; 
 text-underline-offset: 7px;
 }
+
 .hero {
     background-image: url("../images/website\ hero.jpeg");
     height: 225px;
@@ -55,15 +56,62 @@ text-underline-offset: 7px;
     background-position: center;
     position: relative;
 }
+
 .hero-box h1 {
     height: 55px;
     padding: 5px 15px ;
     float: right;
-   margin: 145px 80px 40px;
+   margin: 145px 90px 40px;
     font-size: 40px;
     background-color: #75dee4;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: #3e4049;
     text-align: center;
+}
+
+.side-titles {
+    font-size: 40px;
+    color: #485773;
+    float: left;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width: 50px;
+    margin-left: 125px ; 
+    padding: 45px 40px ; 
+}
+.side-titles h1 {
+    text-align: right;
+    display: inline-block;
+    border-right: 5px solid #485773;
+    padding: 0 15px 100px 10px;
 
 }
+.about-me article {
+    text-align: left;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #485773;
+
+
+float: right;
+overflow: auto;
+width: 1411px;
+font-size: 20px;
+line-height: 1.6;
+padding: 30px 30px ;
+margin: 0 130px 0 5px;
+}
+.side-titles1 {
+    font-size: 40px;
+    color: #485773;
+    float: left;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width: 50px;
+    margin-left: 100px ; 
+    padding-top: 10px; 
+}
+.side-titles1 h1 {
+    text-align: right;
+    display: inline-block;
+    border-right: 5px solid #485773;
+           margin-top: 50px;
+}
+
