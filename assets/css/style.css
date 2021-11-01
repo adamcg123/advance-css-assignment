@@ -82,6 +82,9 @@ section {
     padding-right: 20px;
     height: 250px;
 }
+.longer-height {
+    height: 1390px;
+}
 .intro p {
     font-size: 20px;
     line-height: 1.6;
@@ -114,7 +117,6 @@ float: right;
    width: 20%;
   text-align: center;
   color: #383d4e;
- 
 }
 .bottom-left h1 {
     font-size: 50px;
@@ -132,3 +134,42 @@ float: right;
     padding: 0 90px;
     
 }
+.small-imgs {
+    position: relative;
+    display: inline-flex;
+
+}
+.small-imgs img {
+    width: 717px;
+    height: 250px;
+    border: 5px solid #75dee4;
+    margin: 15px 0 15px 30px;
+    margin-top: 2%;
+    display: inline-block;
+}
+
+.bottom-left-small {
+  position: absolute;
+    background-color: #75dee4;
+    font-size: 20px;
+    bottom: 25%;
+    left: 4.5%;
+    width: 25%;
+    text-align: center;
+    color: #383d4e;
+    
+   
+
+  
+}
+
+.bottom-left-small h1 {
+    font-size: 30px;
+    flex: 1;
+}
+
+.flex{
+    display: flex;
+}
+
+
